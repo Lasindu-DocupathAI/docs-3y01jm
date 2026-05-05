@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-8vfl4a.bifoldslidingdoorfittersltd.co.uk/sitemap.xml
